@@ -22,7 +22,7 @@ The program starts with an interactive menu that allows the user to select the o
   The report contains scheme for these functions for more understanding.
 
 ### Usage
-1. **Compilation**: Use an assembler compiler to compile the source code.
+1. **Compilation**: Use an assembler compiler to compile the source code, we worked with EMU 8086.
 2. **Execution**: Run the compiled program. Follow the on-screen instructions to choose an operation and enter the numbers.
 3. **Results**: The program displays the result of the chosen operation.
 
