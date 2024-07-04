@@ -21,10 +21,8 @@ The program starts with an interactive menu that allows the user to select the o
 
   The report contains scheme for these functions for more understanding.
 
-### Usage
-1. **Compilation**: Use an assembler compiler to compile the source code, we worked with EMU 8086.
-2. **Execution**: Run the compiled program. Follow the on-screen instructions to choose an operation and enter the numbers.
-3. **Results**: The program displays the result of the chosen operation.
+### Compilation
+ Use an assembler compiler to compile the source code, we worked with EMU 8086. follow the simple instructions once its compiled and then it will showcase the result of your chosen operatin. 
 
 
 For more details on the implementation and functionality of the different functions, please refer to the full project report. **Note**: The report is in French but it more in algorithmics scheme.
