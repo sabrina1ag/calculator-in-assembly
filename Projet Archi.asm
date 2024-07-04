@@ -1,6 +1,6 @@
 
 data segment
-    nom  DB 0AH,0DH, "------------- PROJET REALISE PAR : AOUANE HICHEM et TAHRAOUI RAYAN -------------$"
+    nom  DB 0AH,0DH, "------------- PROJET REALISE PAR :  -------------$"
     done  DB 0AH,0DH, "********************************************************************************$" 
     typecal db 0AH,0DH, "Pour une calculatrice decimal entrez 1",0AH,0DH,"Pour une calculatrice hexadecimal entrez 2",0AH,0DH,"Pour une calculatrice en binaire entrez 3",0AH,0DH, '$'  
     operation db  0AH,0DH,"choisissez votre operation pour addition entrez : '+'",0AH,0DH, "pour soustraction entrez '-'",0AH,0DH, "pour multiplication entrez '*' et pour la division entrez '/' : $"   
